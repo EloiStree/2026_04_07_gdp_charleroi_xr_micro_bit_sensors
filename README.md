@@ -48,26 +48,26 @@ Trouvez le capteur à créer ici :
 
 ## Ajouter à un projet pour tester
 
-Créer un projet Godot vide sans Git, puis cloner ce projet dedans :
+Créer un projet Godot vide sans Git, puis cloner ce projet dedans :  
 
 ```
 git clone https://github.com/EloiStree/2026_04_07_gdp_charleroi_xr_micro_bit_sensors.git addons/2026_04_07_gdp_charleroi_xr_micro_bit_sensors
 ```
 
-Ajouter le package à un projet Git existant :
+Ajouter le package à un projet Git existant :  
 
 ```
 git submodule add https://github.com/EloiStree/2026_04_07_gdp_charleroi_xr_micro_bit_sensors.git addons/2026_04_07_gdp_charleroi_xr_micro_bit_sensors
 ```
 
-Sans Git, télécharger en ZIP depuis le gros bouton vert sur GitHub.
-Créer un dossier `addons/2026_04_07_gdp_charleroi_xr_micro_bit_sensors`
-Dézipper à cet endroit.
+Sans Git, télécharger en ZIP depuis le gros bouton vert sur GitHub.   
+Créer un dossier `addons/2026_04_07_gdp_charleroi_xr_micro_bit_sensors`   
+Dézipper à cet endroit.   
 
-Depuis la Godot Asset Library ?
-[https://godotengine.org/asset-library/asset](https://godotengine.org/asset-library/asset)
+Depuis la Godot Asset Library ?   
+[https://godotengine.org/asset-library/asset](https://godotengine.org/asset-library/asset)   
 
-🚧 Il n’y est pas 😉 🚧
-
+🚧 Il n’y est pas 😉 🚧   
+  
 
 
