@@ -17,3 +17,7 @@ Trouvez le capteur à créer ici :
 
 Exemples d’utilisation avec les capteurs :
 * [https://github.com/EloiStree/2026_03_20_workshop_hello_micro_bit/issues?q=Hardware](https://github.com/EloiStree/2026_03_20_workshop_hello_micro_bit/issues?q=Hardware)
+
+
+Comment faire ?
+- https://github.com/EloiStree/2026_04_07_gdp_charleroi_xr_micro_bit_sensors/issues/2
