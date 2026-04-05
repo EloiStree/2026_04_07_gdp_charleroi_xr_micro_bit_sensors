@@ -19,7 +19,7 @@ Example: [ici](https://github.com/EloiStree/2026_04_07_gdp_charleroi_xr_micro_bi
 * Alphanumérique
 * Pas d’espace
 * snake_case
-* NOM PRENOM en majuscules sans accent
+* NOM_PRENOM en majuscules sans accent
 
 ## Trouver un capteur
 
