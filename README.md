@@ -36,7 +36,7 @@ Trouvez le capteur à créer ici :
 
 ## Comment faire ?
 
-[https://github.com/EloiStree/2026_04_07_gdp_charleroi_xr_micro_bit_sensors/issues/2](https://github.com/EloiStree/2026_04_07_gdp_charleroi_xr_micro_bit_sensors/issues/2)
+- [Exemple: Fusion360 > Blender > GLB](https://github.com/EloiStree/2026_04_07_gdp_charleroi_xr_micro_bit_sensors/issues/2)
 
 
 
