@@ -23,8 +23,9 @@ Example: [ici](https://github.com/EloiStree/2026_04_07_gdp_charleroi_xr_micro_bi
 
 ## Trouver un capteur
 
-Trouvez le capteur à créer ici :
-[https://github.com/EloiStree/2026_03_23_gdp_micro_bit_sensor/tree/main/assets/keyestudio](https://github.com/EloiStree/2026_03_23_gdp_micro_bit_sensor/tree/main/assets/keyestudio)
+Trouvez le capteur à créer ici 📕:     
+[https://github.com/EloiStree/2026_03_23_doc_micro_bit_sensor](https://github.com/EloiStree/2026_03_23_doc_micro_bit_sensor/tree/main/assets/keyestudio)    
+  
 
 ## À propos du projet Godot Micro:bit
 
